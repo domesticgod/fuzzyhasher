@@ -1,2 +1,7 @@
 # fuzzyhasher
-API server to create fuzzy hashes of text for use in searching and text matching. 
+API server to chunk text and optionally hash the chunks.
+This can be used for text analysis like:
+*near-duplicate detections
+*IP Leakage
+*Reuse
+*plagiarism detection 
